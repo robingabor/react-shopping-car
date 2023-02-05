@@ -1,8 +1,11 @@
-# react-recipe-app
+# react-shopping-cart
 
 ## Live Demo
 
-- Check the live project :  [https://quiet-rolypoly-d81b9e.netlify.app/](https://quiet-rolypoly-d81b9e.netlify.app/)
+- Check the live project :  [https://wondrous-snickerdoodle-05a2e9.netlify.app/](https://wondrous-snickerdoodle-05a2e9.netlify.app/)
 
 
-###  Built with Spoonacular Recipe API
+###  react ContextApi + useReducer
+###  react-router
+###  react-bootstrap, react-icons
+###  faker-js/faker
